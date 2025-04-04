@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{809F9E8E-063B-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "par_impar", "par_impar\par_impar.csproj", "{AC675C34-F900-4E08-9988-51A76E473221}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{A21456D1-9972-425B-8B7F-9398C79F9DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numero_mayor", "numero_mayor\numero_mayor.csproj", "{AFC0C068-6705-479B-9FF3-4FBF9D7A84C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{AC675C34-F900-4E08-9988-51A76E473221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC675C34-F900-4E08-9988-51A76E473221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC675C34-F900-4E08-9988-51A76E473221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC0C068-6705-479B-9FF3-4FBF9D7A84C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC0C068-6705-479B-9FF3-4FBF9D7A84C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC0C068-6705-479B-9FF3-4FBF9D7A84C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC0C068-6705-479B-9FF3-4FBF9D7A84C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AC675C34-F900-4E08-9988-51A76E473221} = {809F9E8E-063B-4457-8200-4D2B6D56A2E2}
+		{AFC0C068-6705-479B-9FF3-4FBF9D7A84C3} = {A21456D1-9972-425B-8B7F-9398C79F9DC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD09B9ED-B79B-464D-85F5-A71B458E2B37}
